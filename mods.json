@@ -33,5 +33,30 @@
     "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
     "hash": "4d80592bef36674e7469ae2737a7704b826289ae",
     "url": "https://raw.githubusercontent.com/vlauncherrr0/vixanetworklauncherfiles/main/mods/sodium-fabric-0.8.12%2Bmc1.21.11.jar"
+  },
+  {
+    "name": "fabric-api-0.141.4+1.21.11.jar",
+    "hash": "f6265e3b6a22f4625b5a8e05e557201c107e3d1f",
+    "url": "https://raw.githubusercontent.com/vlauncherrr0/vixanetworklauncherfiles/main/mods/fabric-api-0.141.4%2B1.21.11.jar"
+  },
+  {
+    "name": "fancymenu_fabric_3.9.1_MC_1.21.11.jar",
+    "hash": "c2b291a1e05d23719468e223d6824987f61a4209",
+    "url": "https://raw.githubusercontent.com/vlauncherrr0/vixanetworklauncherfiles/main/mods/fancymenu_fabric_3.9.1_MC_1.21.11.jar"
+  },
+  {
+    "name": "drippyloadingscreen_fabric_3.1.3_MC_1.21.11.jar",
+    "hash": "3550e50a58a74e54823521d8b672729959666016",
+    "url": "https://raw.githubusercontent.com/vlauncherrr0/vixanetworklauncherfiles/main/mods/drippyloadingscreen_fabric_3.1.3_MC_1.21.11.jar"
+  },
+  {
+    "name": "konkrete_fabric_1.9.18_MC_1.21.11.jar",
+    "hash": "46914f738f6b158022d250882e9148d941846c48",
+    "url": "https://raw.githubusercontent.com/vlauncherrr0/vixanetworklauncherfiles/main/mods/konkrete_fabric_1.9.18_MC_1.21.11.jar"
+  },
+  {
+    "name": "melody_fabric_1.0.15_MC_1.21.11.jar",
+    "hash": "2525c387d811d7c3525164d1428286f9175344e1",
+    "url": "https://raw.githubusercontent.com/vlauncherrr0/vixanetworklauncherfiles/main/mods/melody_fabric_1.0.15_MC_1.21.11.jar"
   }
 ]
