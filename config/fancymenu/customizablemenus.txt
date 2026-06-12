@@ -1,0 +1,44 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_500 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.caffeinemc.mods.sodium.client.gui.VideoSettingsScreen {
+}
+
+net.minecraft.class_5375 {
+}
+
+net.minecraft.class_404 {
+}
+
+net.minecraft.class_443 {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_440 {
+}
+
+net.minecraft.class_4189 {
+}
+
+net.minecraft.class_525 {
+}
+
+net.minecraft.class_3928 {
+}
+
